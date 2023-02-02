@@ -1,6 +1,6 @@
 
 
-# Hi I'm TImothy Mureithi 8-)
+# Hi I'm Timothy Mureithi 8-)
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="center">A Moringa School Graduate.</h3>
@@ -36,7 +36,7 @@
 
 <!-- 📄 Know about my experiences [through my CV](about/resume.md) -->
 
-<!-- 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**. -->
+<!-- 🌱 I’m currently developing **  a cloud-independent library for Serverless DevOps**. -->
 
 <!-- ⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹** -->
 
@@ -109,7 +109,7 @@
 <br/>
 
 <!-- Link in this table your actual contributions -->
-### My contributions
+<!-- ### My contributions -->
 <!-- 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
